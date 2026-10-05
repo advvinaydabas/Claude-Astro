@@ -1,0 +1,6 @@
+charts/
+engine/.venv/
+engine/node_modules/
+engine/ephe/*.bsp
+engine/ephe/*.se1
+__pycache__/
